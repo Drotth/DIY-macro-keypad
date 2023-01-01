@@ -98,5 +98,11 @@ while True:
                         mainColor = colors.RED
                         toggle = True
 
+                    kbd.send(Keycode.WINDOWS)
+                    time.sleep(0.05)
+                    layout.write("cmd")
+                    time.sleep(0.05)
+                    kbd.send(Keycode.ENTER)
+
             btn_prev_values[x] = curr_state
     time.sleep(runSpeed)
