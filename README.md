@@ -1,5 +1,5 @@
 # DIY-macro-keypad
-Code for custom-built macro keypad with 8 [Neokey Socket Breakouts](https://www.adafruit.com/product/4978), together with a Raspberry Pi Pico.
+Code for custom-built macro keypad with 8 [Neokey Socket Breakouts](https://www.adafruit.com/product/4978), together with a Raspberry Pi Pico. This repository is mostly meant as a backup of the code, as well as a git usage refresher for myself.
 
 ## Dependencies
 So far, this code requires the following modules to function properly:
