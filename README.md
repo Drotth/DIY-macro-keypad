@@ -12,6 +12,7 @@ Typically installed on your board.
 - [Adafruit LED Animation](https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation): To perform animation patterns with the NeoPixel lights.
 
 Your boards lib-folder should look something like this:
+
 ![lib folder on your CircuitPython board](docs/lib_example.png)
 
 ## Usage
